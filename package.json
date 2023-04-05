@@ -21,7 +21,6 @@
     "test": "react-scripts test --env=jsdom",
     "coverage": "react-scripts test --env=jsdom --watchAll=false --coverage",
     "eject": "react-scripts eject"
-  }
   },
   "prettier": {
     "trailingComma": "all"
